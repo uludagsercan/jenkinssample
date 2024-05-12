@@ -1,0 +1,15 @@
+/Users/sercanuludag/Documents/GitHub/jetkinssample/bin/Debug/net6.0/jetkinssample
+/Users/sercanuludag/Documents/GitHub/jetkinssample/bin/Debug/net6.0/jetkinssample.deps.json
+/Users/sercanuludag/Documents/GitHub/jetkinssample/bin/Debug/net6.0/jetkinssample.runtimeconfig.json
+/Users/sercanuludag/Documents/GitHub/jetkinssample/bin/Debug/net6.0/jetkinssample.dll
+/Users/sercanuludag/Documents/GitHub/jetkinssample/bin/Debug/net6.0/jetkinssample.pdb
+/Users/sercanuludag/Documents/GitHub/jetkinssample/obj/Debug/net6.0/jetkinssample.csproj.AssemblyReference.cache
+/Users/sercanuludag/Documents/GitHub/jetkinssample/obj/Debug/net6.0/jetkinssample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sercanuludag/Documents/GitHub/jetkinssample/obj/Debug/net6.0/jetkinssample.AssemblyInfoInputs.cache
+/Users/sercanuludag/Documents/GitHub/jetkinssample/obj/Debug/net6.0/jetkinssample.AssemblyInfo.cs
+/Users/sercanuludag/Documents/GitHub/jetkinssample/obj/Debug/net6.0/jetkinssample.csproj.CoreCompileInputs.cache
+/Users/sercanuludag/Documents/GitHub/jetkinssample/obj/Debug/net6.0/jetkinssample.dll
+/Users/sercanuludag/Documents/GitHub/jetkinssample/obj/Debug/net6.0/refint/jetkinssample.dll
+/Users/sercanuludag/Documents/GitHub/jetkinssample/obj/Debug/net6.0/jetkinssample.pdb
+/Users/sercanuludag/Documents/GitHub/jetkinssample/obj/Debug/net6.0/jetkinssample.genruntimeconfig.cache
+/Users/sercanuludag/Documents/GitHub/jetkinssample/obj/Debug/net6.0/ref/jetkinssample.dll
